@@ -4,7 +4,7 @@ A real-time, web-based cloth simulation framework with gesture-driven wind inter
 <br>
 
 <p align="left">
-  <img width="340" alt="Fig2" src="https://github.com/user-attachments/assets/06f71d97-75c4-4ff9-89fc-88e6fe8758d0"> <img width="340" alt="Fig6" src="https://github.com/user-attachments/assets/7fd3cce0-91ab-4736-8d03-aa46c4b8a718">
+  <img width="340" alt="Fig2" src="https://github.com/user-attachments/assets/bf41baa2-fe65-48fb-8092-73a9605d6b3e"> <img width="340" alt="Fig6" src="https://github.com/user-attachments/assets/8c62ff15-8134-4320-a093-c620a716fcc0">
 <br>
 
 <br>
@@ -27,7 +27,7 @@ HandWind-Sim is an interactive framework that recognizes user hand gestures via 
 
 HandWind-Sim utilizes a pipeline architecture where modules for gesture input, physics simulation, and rendering are organically connected.
 
-<img width="1191" height="237" alt="Fig0" src="https://github.com/user-attachments/assets/aa262320-f70b-4c73-8200-6ecace3787bc" />
+<img width="1191" height="237" alt="Fig0" src="https://github.com/user-attachments/assets/5a885efe-b6fc-4340-9a90-b19c4f593325" />
 
 1.  **Gesture Input & Processing:** Extracts hand landmarks from the webcam video stream using MediaPipe and analyzes the movement to generate a wind vector.
 2.  **Physics Simulation:** Simulates the deformation of the cloth mesh based on the generated wind vector and physical constraints, using a Position-Based Dynamics (PBD) algorithm.
@@ -52,9 +52,7 @@ HandWind-Sim utilizes a pipeline architecture where modules for gesture input, p
 <br>
 
 ## Demo Video
-![Fig1](https://github.com/user-attachments/assets/188855a2-86da-4627-bc87-f12cca555d81)
-
-![HandWind-Sim Demo](https://github.com/user-attachments/assets/4017bba7-7ec9-4588-b225-db669c4f1832)
+![Fig1](https://github.com/user-attachments/assets/66e905e3-920e-4904-b288-735808999ad2)
 
 See HandWind-Sim in action.
 
