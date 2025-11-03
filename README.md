@@ -55,6 +55,7 @@ HandWind-Sim utilizes a pipeline architecture where modules for gesture input, p
 ![Fig1](https://github.com/user-attachments/assets/66e905e3-920e-4904-b288-735808999ad2)
 ![HandWind-Sim](https://github.com/user-attachments/assets/9813da47-2a53-413f-ad83-28327f472d56)
 ![HandWind-Sim](https://github.com/user-attachments/assets/82fc09d7-19ec-41cb-86e6-957a34aeddab)
+<video src="https://github.com/user-attachments/assets/82fc09d7-19ec-41cb-86e6-957a34aeddab" controls></video>
 **See HandWind-Sim in action.**
 
 <br>
