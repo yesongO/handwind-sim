@@ -1,3 +1,9 @@
+📄 **Published in SoftwareX (Elsevier)**  
+**HandWind-Sim: Real-time web-based cloth simulation with gesture-driven wind interaction**  
+🔗 DOI: https://doi.org/10.1016/j.softx.2025.102442
+
+___
+
 # HandWind-Sim
 A real-time, web-based cloth simulation framework with gesture-driven wind interaction.
 
